@@ -1,4 +1,4 @@
-# -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+# EX-01: SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
@@ -31,7 +31,8 @@ print(C)
 ```
 ## Output:
 
-![Alt text](EX-01.png)
+![image](https://github.com/KeerthanaaSaravanan/EX-01_MATH/assets/145742596/f9f4e45d-ffc7-48d0-8392-fa1d41aad645)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
